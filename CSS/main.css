@@ -1,0 +1,26 @@
+
+body{
+    background-color: #84A4D3;
+}
+
+.list{
+    list-style-type: none;
+    text-align: center;
+    display: flex;
+    background-color: white;
+    margin: 140px auto;
+    width: 600px;
+    padding: 35px;
+}
+
+.list-item + .list-item{
+    margin-left: 10px;
+}
+
+.list-headding{
+    color: #8088A4;
+}
+
+.prise-time{
+    color: #8088A4;
+}
